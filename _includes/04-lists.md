@@ -1,4 +1,4 @@
-:heart:
-:+1:
-:smile:
-:sparkles:
+- :heart:
+- :+1:
+- :smile:
+- :sparkles:
